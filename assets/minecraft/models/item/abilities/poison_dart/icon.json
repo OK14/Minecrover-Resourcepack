@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/abilities/bow_root",
+    "textures": {
+      "layer0": "minecraft:custom/abilities/nerf_bow"
+    }
+  }

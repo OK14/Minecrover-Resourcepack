@@ -1,5 +1,5 @@
 {
-    "parent": "minecraft:item/abilities/axe_root",
+    "parent": "minecraft:item/handheld",
     "textures": {
       "layer0": "minecraft:custom/abilities/axe_sweep"
     }

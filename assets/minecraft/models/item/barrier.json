@@ -52,7 +52,7 @@
                 {"predicate": {"custom_model_data": 46}, "model": "item/abilities/pocket_sand/reload8"},
                 {"predicate": {"custom_model_data": 47}, "model": "item/abilities/pocket_sand/reload9"},
                 {"predicate": {"custom_model_data": 48}, "model": "item/abilities/pocket_sand/reload10"},
-                {"predicate": {"custom_model_data": 49}, "model": "item/empty"},
+                {"predicate": {"custom_model_data": 49}, "model": "item/abilities/poison_dart/reload"},
                 {"predicate": {"custom_model_data": 50}, "model": "item/abilities/swap/reload1"},
                 {"predicate": {"custom_model_data": 51}, "model": "item/abilities/swap/reload2"},
                 {"predicate": {"custom_model_data": 52}, "model": "item/abilities/swap/reload3"},
