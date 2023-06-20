@@ -1,0 +1,12 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/iron_boots"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 1},"model": "minecraft:item/abilities/jump/jump03"},
+		{"predicate": {"custom_model_data": 2},"model": "minecraft:item/abilities/jump/jump02"},
+		{"predicate": {"custom_model_data": 3},"model": "minecraft:item/abilities/jump/jump01"},
+		{"predicate": {"custom_model_data": 4},"model": "minecraft:item/abilities/jump/jump00"}
+	]
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/abilities/weapon_root",
+    "textures": {
+      "layer0": "minecraft:custom/abilities/wand_charging"
+    }
+  }

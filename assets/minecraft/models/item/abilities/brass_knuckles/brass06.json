@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:item/abilities/in_hand_root",
+    "textures": {
+      "layer0": "minecraft:custom/abilities/brass06"
+    }
+  }
+  

@@ -1,0 +1,29 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/potato"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 1},"model": "minecraft:item/abilities/wd40/reload0"},
+		{"predicate": {"custom_model_data": 2},"model": "minecraft:item/abilities/wd40/reload1"},
+		{"predicate": {"custom_model_data": 3},"model": "minecraft:item/abilities/wd40/reload2"},
+		{"predicate": {"custom_model_data": 4},"model": "minecraft:item/abilities/wd40/reload3"},
+		{"predicate": {"custom_model_data": 5},"model": "minecraft:item/abilities/wd40/reload4"},
+		{"predicate": {"custom_model_data": 6},"model": "minecraft:item/abilities/wd40/reload5"},
+		{"predicate": {"custom_model_data": 7},"model": "minecraft:item/abilities/wd40/reload6"},
+		{"predicate": {"custom_model_data": 8},"model": "minecraft:item/abilities/wd40/reload7"},
+		{"predicate": {"custom_model_data": 9},"model": "minecraft:item/abilities/wd40/reload8"},
+		{"predicate": {"custom_model_data": 10},"model": "minecraft:item/abilities/wd40/reload9"},		
+		{"predicate": {"custom_model_data": 11},"model": "minecraft:item/abilities/jump/jump03"},
+		{"predicate": {"custom_model_data": 12},"model": "minecraft:item/abilities/jump/jump02"},
+		{"predicate": {"custom_model_data": 13},"model": "minecraft:item/abilities/jump/jump01"},
+		{"predicate": {"custom_model_data": 14},"model": "minecraft:item/abilities/jump/jump00"},
+		{"predicate": {"custom_model_data": 15},"model": "minecraft:item/abilities/shuriken/shuriken0"},
+		{"predicate": {"custom_model_data": 16},"model": "minecraft:item/abilities/shuriken/shuriken1"},
+		{"predicate": {"custom_model_data": 17},"model": "minecraft:item/abilities/shuriken/shuriken2"},
+		{"predicate": {"custom_model_data": 18},"model": "minecraft:item/abilities/shuriken/shuriken3"},
+		{"predicate": {"custom_model_data": 19},"model": "minecraft:item/abilities/shuriken/shuriken4"},
+		{"predicate": {"custom_model_data": 20},"model": "minecraft:item/abilities/shuriken/shuriken5"},
+		{"predicate": {"custom_model_data": 21},"model": "minecraft:item/abilities/shuriken/shuriken6"}
+	]
+}

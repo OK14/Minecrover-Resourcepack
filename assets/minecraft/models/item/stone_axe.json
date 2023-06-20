@@ -1,0 +1,18 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/stone_axe"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 1},"model": "minecraft:item/abilities/axe_sweep/reload0"},
+		{"predicate": {"custom_model_data": 2},"model": "minecraft:item/abilities/axe_sweep/reload1"},
+		{"predicate": {"custom_model_data": 3},"model": "minecraft:item/abilities/axe_sweep/reload2"},
+		{"predicate": {"custom_model_data": 4},"model": "minecraft:item/abilities/axe_sweep/reload3"},
+		{"predicate": {"custom_model_data": 5},"model": "minecraft:item/abilities/axe_sweep/reload4"},
+		{"predicate": {"custom_model_data": 6},"model": "minecraft:item/abilities/axe_sweep/reload5"},
+		{"predicate": {"custom_model_data": 7},"model": "minecraft:item/abilities/axe_sweep/reload6"},
+		{"predicate": {"custom_model_data": 8},"model": "minecraft:item/abilities/axe_sweep/reload7"},
+		{"predicate": {"custom_model_data": 9},"model": "minecraft:item/abilities/axe_sweep/reload8"},
+		{"predicate": {"custom_model_data": 10},"model": "minecraft:item/abilities/axe_sweep/reload9"}
+	]
+}

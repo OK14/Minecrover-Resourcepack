@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/abilities/big_weapon_root",
+  "textures": {
+    "layer0": "minecraft:custom/abilities/gay_beam"
+  }
+}

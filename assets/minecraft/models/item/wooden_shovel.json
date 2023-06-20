@@ -1,0 +1,10 @@
+{
+	"parent": "minecraft:item/handheld",
+	"gui_light": "front",
+	"textures": {
+		"layer0": "minecraft:item/wood_shovel"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 25},"model": "minecraft:item/abilities/brass_knuckles/brass_knuckles"}
+	]
+}

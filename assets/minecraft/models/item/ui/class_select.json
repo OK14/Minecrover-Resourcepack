@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/ui/root",
+  "textures": {
+    "texture": "minecraft:custom/ui/class_select"
+  }
+}

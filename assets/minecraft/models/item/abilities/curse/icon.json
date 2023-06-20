@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/abilities/ability_root",
+    "textures": {
+      "layer0": "minecraft:custom/abilities/curse"
+    }
+  }

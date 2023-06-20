@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/abilities/block_root",
+  "textures": {
+    "layer0": "minecraft:custom/abilities/palasword"
+  }
+}

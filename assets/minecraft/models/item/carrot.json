@@ -1,0 +1,41 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/carrot"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 1},"model": "minecraft:item/abilities/gay_beam/reload00"},
+		{"predicate": {"custom_model_data": 2},"model": "minecraft:item/abilities/gay_beam/reload01"},
+		{"predicate": {"custom_model_data": 3},"model": "minecraft:item/abilities/gay_beam/reload02"},
+		{"predicate": {"custom_model_data": 4},"model": "minecraft:item/abilities/gay_beam/reload03"},
+		{"predicate": {"custom_model_data": 5},"model": "minecraft:item/abilities/gay_beam/reload04"},
+		{"predicate": {"custom_model_data": 6},"model": "minecraft:item/abilities/gay_beam/reload05"},
+		{"predicate": {"custom_model_data": 7},"model": "minecraft:item/abilities/gay_beam/reload06"},
+		{"predicate": {"custom_model_data": 8},"model": "minecraft:item/abilities/gay_beam/reload07"},
+		{"predicate": {"custom_model_data": 9},"model": "minecraft:item/abilities/gay_beam/reload08"},
+		{"predicate": {"custom_model_data": 10},"model": "minecraft:item/abilities/gay_beam/reload09"},
+		{"predicate": {"custom_model_data": 11},"model": "minecraft:item/abilities/gay_beam/reload10"},
+		{"predicate": {"custom_model_data": 12},"model": "minecraft:item/abilities/gay_beam/reload11"},
+		{"predicate": {"custom_model_data": 13},"model": "minecraft:item/abilities/gay_beam/reload12"},
+		{"predicate": {"custom_model_data": 14},"model": "minecraft:item/abilities/gay_beam/reload13"},
+		{"predicate": {"custom_model_data": 15},"model": "minecraft:item/abilities/gay_beam/reload14"},
+		{"predicate": {"custom_model_data": 16},"model": "minecraft:item/abilities/curse/reload0"},
+		{"predicate": {"custom_model_data": 17},"model": "minecraft:item/abilities/curse/reload1"},
+		{"predicate": {"custom_model_data": 18},"model": "minecraft:item/abilities/curse/reload2"},
+		{"predicate": {"custom_model_data": 19},"model": "minecraft:item/abilities/brass_knuckles/brass00"},
+		{"predicate": {"custom_model_data": 20},"model": "minecraft:item/abilities/brass_knuckles/brass01"},
+		{"predicate": {"custom_model_data": 21},"model": "minecraft:item/abilities/brass_knuckles/brass02"},
+		{"predicate": {"custom_model_data": 22},"model": "minecraft:item/abilities/brass_knuckles/brass03"},
+		{"predicate": {"custom_model_data": 23},"model": "minecraft:item/abilities/brass_knuckles/brass04"},
+		{"predicate": {"custom_model_data": 24},"model": "minecraft:item/abilities/brass_knuckles/brass05"},
+		{"predicate": {"custom_model_data": 25},"model": "minecraft:item/abilities/brass_knuckles/brass06"},
+		{"predicate": {"custom_model_data": 26},"model": "minecraft:item/abilities/brass_knuckles/brass07"},
+		{"predicate": {"custom_model_data": 27},"model": "minecraft:item/abilities/brass_knuckles/brass08"},
+		{"predicate": {"custom_model_data": 28},"model": "minecraft:item/abilities/brass_knuckles/brass09"},
+		{"predicate": {"custom_model_data": 29},"model": "minecraft:item/abilities/brass_knuckles/brass10"},
+		{"predicate": {"custom_model_data": 30},"model": "minecraft:item/abilities/brass_knuckles/brass11"},
+		{"predicate": {"custom_model_data": 31},"model": "minecraft:item/abilities/brass_knuckles/brass12"},
+		{"predicate": {"custom_model_data": 31},"model": "minecraft:item/abilities/brass_knuckles/brass13"},
+		{"predicate": {"custom_model_data": 32},"model": "minecraft:item/abilities/brass_knuckles/brass14"}
+	]
+}

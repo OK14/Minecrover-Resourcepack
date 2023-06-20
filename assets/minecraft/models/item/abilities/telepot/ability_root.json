@@ -1,0 +1,40 @@
+{
+	"parent": "minecraft:item/generated",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"texture": "custom/abilities/telepot0"
+	},
+	"gui_light":"front",
+	"elements": [
+		{
+			"from": [0, 0, 8],
+			"to": [16, 16, 8],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#texture"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#texture"}
+			}
+		}
+	],
+	"display": {
+		"ground": {
+			"rotation": [0, 0, 0],
+			"translation": [0, 2, 0],
+			"scale": [0.5, 0.5,	0.5]
+		},
+		"thirdperson_righthand": {
+			"rotation":[0, 0, 0],
+			"translation":[0, 3, 1],
+			"scale": [0.55, 0.55, 0.55]
+		},
+		"firstperson_righthand": {
+			"rotation":[0, -90, 23],
+			"translation":[1.13, 3.2, 2.13],
+			"scale": [0.68, 0.68, 0.68]
+		},
+		"firstperson_lefthand": {
+			"rotation":[0, -90, 23],
+			"translation":[1.13, 3.2, 2.13],
+			"scale": [0.68, 0.68, 0.68]
+		}
+	}
+}

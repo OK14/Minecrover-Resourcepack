@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/abilities/telepot/ability_root",
+    "textures": {
+      "layer0": "minecraft:custom/abilities/heal_pot02"
+    }
+  }
