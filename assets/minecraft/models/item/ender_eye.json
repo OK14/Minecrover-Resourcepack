@@ -6,6 +6,7 @@
 	"overrides": [
 		{"predicate": {"custom_model_data": 1},"model": "minecraft:item/abilities/holy_sword/icon"},
 		{"predicate": {"custom_model_data": 2},"model": "minecraft:item/abilities/curse/icon"},
-		{"predicate": {"custom_model_data": 3},"model": "minecraft:item/abilities/holy_sword/blocking"}
+		{"predicate": {"custom_model_data": 3},"model": "minecraft:item/abilities/holy_sword/blocking"},
+		{"predicate": {"custom_model_data": 4},"model": "minecraft:item/abilities/ar/gun_man_assault_rifle"}
 	]
 }

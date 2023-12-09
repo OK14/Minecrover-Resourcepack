@@ -39,6 +39,7 @@
 		{"predicate": {"custom_model_data": 47},"model": "minecraft:item/abilities/evoker/icon"},
 		{"predicate": {"custom_model_data": 48},"model": "minecraft:item/abilities/gay_beam/icon"},
 		{"predicate": {"custom_model_data": 49},"model": "minecraft:item/abilities/duct_tape/icon"},
-		{"predicate": {"custom_model_data": 50},"model": "minecraft:item/abilities/backstep/icon"}
+		{"predicate": {"custom_model_data": 50},"model": "minecraft:item/abilities/backstep/icon"},
+		{"predicate": {"custom_model_data": 51},"model": "minecraft:item/abilities/sg/gun_man_shotgun"}
 	]
 }
