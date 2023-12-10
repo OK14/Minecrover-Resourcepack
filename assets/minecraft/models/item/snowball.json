@@ -7,7 +7,7 @@
 		{"predicate": {"custom_model_data": 1},"model": "minecraft:item/abilities/holy_hand_grenade/icon"},
 		{"predicate": {"custom_model_data": 2},"model": "minecraft:item/abilities/fireball/icon"},
 		{"predicate": {"custom_model_data": 3},"model": "minecraft:item/abilities/ibuprofen/icon"},
-		{"predicate": {"custom_model_data": 4},"model": "minecraft:item/abilities/pullnade/gun_man_pull_nade"}		
+		{"predicate": {"custom_model_data": 4},"model": "minecraft:item/abilities/pullnade/icon"}		
 	
 
 	]
